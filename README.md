@@ -1,4 +1,4 @@
-# LXNetwork
+# LXNetwork - 基于AF3.0封装的iOS网络请求库
 
 原文地址：
 
