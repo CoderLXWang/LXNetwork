@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[LXBaseRequest beforePerformSuccessWithResponse:]:LXBaseRequest.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.interceptor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LXResponse initWithRequestId:request:params:reponseObject:]:LXResponse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LXBaseRequest shouldCallAPIWithParams:]:LXBaseRequest.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.interceptor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
